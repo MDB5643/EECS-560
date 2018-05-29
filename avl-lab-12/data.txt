@@ -1,0 +1,9 @@
+1, Introduction to Algorithms, MIT Press, 3
+2, Structure and Interpretation of Computer Programs, MIT Press, 2
+3, The Art of Computer Programming, Addison-Wesley, 3
+4, Artificial Intelligence A Modern Approach, Prentice Hall, 9
+5, Compilers Principles Techniques and Tools,  Pearson, 7
+6, The C Programming Language, Pearson Education, 10
+7, Concrete Mathematics, Addison-Wesley, 4
+8, Patterns of Enterprise Application Architecture, Pearson Education, 1
+9, Operating System Concepts, Wiley, 8
